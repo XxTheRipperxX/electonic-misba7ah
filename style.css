@@ -1,0 +1,91 @@
+.title{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: auto;
+}
+.title .text{
+    margin: 0;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.container.text{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+body > div > p:nth-child(1){
+    font-weight: bold;
+    font-size: 20px;
+}
+/* .parent {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(3, 1fr) repeat(2, 0fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: fit-content;
+    }
+    
+    .div1 { grid-area: 1 / 1 / 2 / 2;
+    margin: auto; }
+    .div2 { grid-area: 1 / 2 / 2 / 3;
+        margin: auto; }
+    .div3 { grid-area: 1 / 3 / 2 / 4;
+        margin: auto; }
+    .div4 { grid-area: 2 / 1 / 3 / 2;
+        margin: auto; }
+    .div5 { grid-area: 2 / 2 / 3 / 3;
+        margin: auto; }
+    .div6 { grid-area: 2 / 3 / 3 / 4;
+        margin: auto; }
+    .div7 { grid-area: 3 / 1 / 4 / 2;
+        margin: auto; }
+    .div8 { grid-area: 3 / 2 / 4 / 3;
+        margin: auto; }
+    .div9 { grid-area: 3 / 3 / 4 / 4;
+        margin: auto; }
+    .div10 { grid-area: 4 / 1 / 5 / 2;
+        margin: auto; }
+    .div11 { grid-area: 4 / 2 / 5 / 3;
+        margin: auto; }
+    .div12 { grid-area: 4 / 3 / 5 / 4;
+        margin: auto; }
+    .div13 { grid-area: 5 / 1 / 6 / 2;
+        margin: auto; }
+    .div14 { grid-area: 5 / 2 / 6 / 3;
+        margin: auto; }
+    .div15 { grid-area: 5 / 3 / 6 / 4;
+        margin: auto; }
+    .div16 {grid-area: 6 / 1 / 7 / 2 ;
+        margin: auto;}
+    .div17 {grid-area: 6 / 2 / 7 / 3 ;
+        margin: auto;}
+
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border-radius: 50%;
+    font-size: xx-large;
+} */
+.btn-primary{
+    height: 100px;
+    width: 100px;
+    
+}
+
+button p{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+
+
