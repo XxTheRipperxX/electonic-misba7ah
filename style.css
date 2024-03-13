@@ -87,5 +87,6 @@ button p{
     height: 100%;
     align-items: center;
 }
-
-
+.fa-instagram{
+    margin-left: 10px;
+}
